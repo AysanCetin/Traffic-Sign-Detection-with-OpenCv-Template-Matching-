@@ -127,16 +127,3 @@ for i in range(len(dataSet)):
         cv2.waitKey(0)
         
 f.close
-
-
-                
-    
-    
-    
-    
-    
-
-            
-            
-            
-        
